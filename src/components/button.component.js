@@ -17,6 +17,18 @@ const useStyles = makeStyles(() => ({
             backgroundColor: "#ff8b3d",
             color: "#ffffff",
         },
+        "&:nth-child(1)": {
+            backgroundColor: "#a39d9d",
+            color: "#000000",
+        },
+        "&:nth-child(2)": {
+            backgroundColor: "#a39d9d",
+            color: "#000000",
+        },
+        "&:nth-child(3)": {
+            backgroundColor: "#a39d9d",
+            color: "#000000",
+        },
         "&:last-child": {
             width: "200%",
         },
